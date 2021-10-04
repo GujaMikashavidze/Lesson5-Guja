@@ -22,6 +22,7 @@
 	margin: 15px;
 	font-size: 11px;
 	color: grey;
+	font-family: 'Roboto';
 }
 .active{
 	color: #343638;
@@ -29,6 +30,9 @@
 .nav-image{
 	vertical-align: middle;
 	margin-left: 40px;
+}
+.title1{
+	font-family: 'Roboto';
 }
 .first-block{
 	width: 1170px;
@@ -61,6 +65,7 @@ body{
 	top: 28px;
 	left: 40px;
 	color: white;
+	font-family: 'Roboto';
 }
 .text1{
 	position: absolute;
@@ -69,6 +74,7 @@ body{
 	top: 246px;
 	left: 40px;
 	line-height: 20px;
+	font-family: 'Roboto';
 }
 .time{
 	position: absolute;
@@ -83,6 +89,7 @@ body{
 	display: inline-block;
 	vertical-align: middle;
 	color: #A6ADB4;
+	font-family: 'Roboto';
 }
 .grandchild-block1{
 	position: relative;
@@ -104,6 +111,7 @@ body{
 	margin-top: 58px;
 	margin-left: 140px;
 	margin-bottom: 40px;
+	font-family: 'Roboto';
 	
 }
 .second-block{
@@ -121,6 +129,7 @@ body{
 	top: 194px;
 	left: 308px;
 	color: white;
+	font-family: 'Roboto';
 }
 .second-image{
 	position: absolute;
@@ -156,7 +165,7 @@ body{
 	position: relative;
 }
 .footer-child{
-	width: 486.09px;
+	width: 500px;
 	height: 84px;
 	position: absolute;
 	top: 56px;
@@ -188,6 +197,7 @@ body{
 .footer-menu{
 	color: #CBD0D3;
 	font-size: 13px;
+	font-family: 'Roboto';
 }
 .footer-text{
 	font-size: 11px;
@@ -195,6 +205,7 @@ body{
 	top: 65px;
 	left: 733px;
 	color: #CBD0D3;
+	font-family: 'Roboto';
 }
 .social-block{
 	position: absolute;
